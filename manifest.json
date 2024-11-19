@@ -1,0 +1,193 @@
+{
+    "name": "LAYLA",
+    "display-name": "LAYLA-Genshin Impact",
+    "version": "1.0.0",
+    "description": "莱依拉：…为什么报告和论文永远写不完？为什么？",
+    "avatar": "pictures/surface.png",
+    "avatar-dark": "pictures/surface.png",
+    "author": "https://github.com/Pfolg",
+    "gender": "female",
+    "languages": [
+        "Python"
+    ],
+    "contributes": [
+      {
+        "keywords": [
+          "import"
+        ],
+        "voices": [
+          "audios/星星的加护.mp3",
+          "audios/星辰，为我降下.mp3",
+          "audios/极寒，任我驱使.mp3",
+          "audios/闲聊·哀叹.mp3",
+          "audios/性价比不错.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "break",
+          "continue"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/别害怕.mp3",
+          "audios/性价比不错.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "if",
+          "else"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/关于莱依拉自己·理由.mp3",
+          "audios/性价比不错.mp3",
+          "audios/收到赠礼·其三.mp3"
+
+
+        ]
+      },
+      {
+        "keywords": [
+          "for",
+          "while"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/闲聊·注视.mp3",
+          "audios/性价比不错.mp3",
+          "audios/现在逃还来得及吗？.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "await",
+          "async"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/唉，脑袋空空，出去放松.mp3",
+          "audios/性价比不错.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "catch",
+          "try",
+          "except",
+          "finally"
+        ],
+        "voices": [
+          "audios/还是你眼睛尖.mp3",
+          "audios/闲聊·哀叹.mp3",
+          "audios/关于莱依拉自己·理论星相学.mp3",
+          "audios/在沙漠的时候.mp3",
+          "audios/性价比不错.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "def",
+          "main"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/关于小吉祥草王.mp3",
+          "audios/收到赠礼·其一.mp3",
+          "audios/现在逃还来得及吗？.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "and",
+          "not"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/下雨的时候...mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "class"
+        ],
+        "voices": [
+          "audios/闲聊·哀叹.mp3",
+          "audios/哇！突然感觉不困了.mp3",
+          "audios/收到赠礼·其一.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "$time_morning"
+        ],
+        "voices": [
+          "audios/早上好.mp3",
+          "audios/闲聊·梦游.mp3",
+          "audios/醒醒，别昏过去!.mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "$time_noon"
+        ],
+        "voices": [
+          "audios/中午好.mp3",
+          "audios/阳光很好....mp3"
+
+        ]
+      },
+      {
+        "keywords": [
+          "$time_evening"
+        ],
+        "voices": [
+          "audios/晚上好.mp3",
+          "audios/感兴趣的见闻.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_midnight"
+        ],
+        "voices": [
+          "audios/我好困....mp3",
+          "audios/关于「神之眼」.mp3",
+          "audios/睡不着就四处走走吧.mp3",
+          "audios/闲聊·哀叹.mp3",
+          "audios/关于我们·陪伴.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_each_hour"
+        ],
+        "voices": [
+          "audios/莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面.mp3",
+          "audios/莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕.mp3",
+          "audios/莱依拉啊莱依拉，你还要更勤奋.mp3",
+          "audios/莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！呼..好了，所有担心我都抛到脑后了，咱们出发吧！.mp3",
+          "audios/闲聊·哀叹.mp3",
+          "audios/唉，脑袋空空，出去放松.mp3",
+          "audios/想要了解莱依拉·其一.mp3",
+          "audios/想要了解莱依拉·其二.mp3",
+          "audios/想要了解莱依拉·其三.mp3",
+          "audios/想要了解莱依拉·其四.mp3",
+          "audios/想要了解莱依拉·五.mp3",
+          "audios/有什么想要分享.mp3",
+          "audios/莱依拉的烦恼.mp3",
+          "audios/莱依拉的爱好.mp3",
+          "audios/讨厌的食物.mp3"
+        ]
+      }
+    ]
+}
